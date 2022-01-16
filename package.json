@@ -1,0 +1,22 @@
+{
+  "name": "weather-sli",
+  "version": "1.0.0",
+  "description": "weather SLI",
+  "main": "index.js",
+  "bin": "./index,js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather",
+    "sli"
+  ],
+  "author": "Houst0n345",
+  "license": "ISC",
+  "homepage": "https://sli-landing.by",
+  "repository": {
+    "type": "git",
+    "url": "https://github.weather-sli.com"
+  }
+}
